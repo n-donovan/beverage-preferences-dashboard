@@ -1,0 +1,31 @@
+Customer ID,Age Group,Flavor,Sweetness,Tartness,Rating,Purchase Frequency
+1,18-25,Mango,8,3,4.5,Weekly
+2,26-35,Lemon,3,9,4.2,Monthly
+3,18-25,Berry,6,5,3.8,Weekly
+4,36-50,Peach,7,4,4.1,Monthly
+5,26-35,Pineapple,9,9,4.7,Weekly
+6,18-25,Lemon,4,8,3.9,Rarely
+7,36-50,Berry,5,6,3.6,Monthly
+8,26-35,Mango,8,3,4.8,Weekly
+9,18-25,Peach,7,4,4,Monthly
+10,36-50,Lemon,2,9,3.5,Rarely 
+11,26-35,Berry,6,4,4.1,Weekly 
+12,18-25,Pineapple,9,5,4.6,Weekly
+13,36-50,Mango,7,2,4.3,Monthly
+14,26-35,Peach,6,3,3.9,Monthly
+15,18-25,Berry,5,4,3.7,Rarely
+16,36-50,Pineapple,8,6,4.4,Weekly
+17,26-35,Lemon,3,8,3.8,Rarely
+18,18-25,Mango,9,2,4.9,Weekly
+19,36-50,Peach,6,5,3.8,Monthly
+20,26-35,Berry,7,4,0,Weekly
+21,18-25,Pineapple,8,3,4.5,Weekly
+22,36-50,Lemon,2,8,4,Rarely
+23,26-35,Mango,8,4,6,Monthly
+24,18-25,Peach,7,3,2,Weekly
+25,36-50,Berry,5,7,3.5,Monthly 
+26,26-35,Pineapple,9,1,4.8,Weekly
+27,18-25,Lemon,4,9,3.6,Rarely 
+28,36-50,Mango ,7,2,4.4,Monthly
+29,26-35,Peach,6,4,3.9,Monthly
+30,18-25,Berry,6,6,3.8,Weekly
